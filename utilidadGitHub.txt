@@ -1,1 +1,1 @@
-hola, para subir una cosa a github usa "git pull -u personal main" porque main es el principal y no es master
+hola, para subir una cosa a github usa "git push -u personal main" porque main es el principal y no es master
